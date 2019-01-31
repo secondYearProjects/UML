@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="instagram" version="4">
+  <OBJECT>
+    <ID name="instagram" mc="Standard.Package" uid="cf2ebacd-0018-4bee-95cc-89630c063654"/>
+    <PID name="Instagram" mc="Standard.Project" uid="632e01bd-6349-4d4e-bef5-0c0a8986f0d2"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[instagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="User" mc="Standard.Actor" uid="c1b2e5c6-50e8-43f3-9d95-60be892d3c95"/>
+        <COMPID name="Moderator" mc="Standard.Actor" uid="f403701a-7d9f-48b5-8b67-0c270eaf3909"/>
+        <COMPID name="Login system" mc="Standard.UseCase" uid="0649f598-95a8-4591-b524-f50d87182f3f"/>
+        <COMPID name="User DB" mc="Standard.Actor" uid="0cca74ff-fd21-4762-a4a7-3d5ef3d83d01"/>
+        <COMPID name="" mc="Standard.UseCase" uid="78a31898-233a-4120-8184-bdebac880bdc"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="instagram Use Case diagram" mc="Standard.UseCaseDiagram" uid="977f7efb-6d92-4abf-8b55-4674a66e3687"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

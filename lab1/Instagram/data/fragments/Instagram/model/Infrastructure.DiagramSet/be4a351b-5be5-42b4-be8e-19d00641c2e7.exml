@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Instagram" version="4">
+  <OBJECT>
+    <ID name="Instagram" mc="Infrastructure.DiagramSet" uid="be4a351b-5be5-42b4-be8e-19d00641c2e7"/>
+    <PID name="Instagram" mc="Standard.Project" uid="632e01bd-6349-4d4e-bef5-0c0a8986f0d2"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Instagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
