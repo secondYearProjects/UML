@@ -14,6 +14,7 @@ string wstrtTostr(const wstring &ws)
 FileSystem::FileSystem()
 {
 	char path[MAX_PATH];
+	//LPWSTR path;
 	GetCurrentDirectory(sizeof(path), path);
 
 	this->currentPath = strToWstr(path);

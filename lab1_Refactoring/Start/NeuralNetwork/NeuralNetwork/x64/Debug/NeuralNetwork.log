@@ -1,8 +1,2 @@
 ﻿  FileSystem.cpp
-  LifeGame.cpp
-  main.cpp
-  NeuralNetwork.cpp
-  Neuron.cpp
-  Player.cpp
-  Generating Code...
   NeuralNetwork.vcxproj -> C:\work\UML_Pattern_practice\lab1_Refactoring\Start\NeuralNetwork\x64\Debug\NeuralNetwork.exe

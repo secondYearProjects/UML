@@ -11,6 +11,7 @@
 #include <codecvt>
 #include <vector>
 #include <fstream>
+#include <string.h>
 
 using namespace std;
 
